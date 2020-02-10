@@ -29,7 +29,7 @@
         echo '<td>David se lo mama a Machado todos los dias sin falta</td>';
         $cont++;
 
-        if ($cont == 7) {
+        if ($cont == 10) {
             $David_Es_Marico = false;
         }
         echo '</tr>';
