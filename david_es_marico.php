@@ -14,7 +14,7 @@
     <table border="3">
         <thead>
             <tr>
-                <th>Tabla de la Verdad!!!</th>
+                <th>Tabla de la Verdad NOJODA!!!</th>
             </tr>
         </thead>
     <?php
